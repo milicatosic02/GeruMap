@@ -1,9 +1,14 @@
-# gerumap-tim_milicatosic_nadjaradojicic
-gerumap-tim_milicatosic_nadjaradojicic created by GitHub Classroom
+GeruMap - app
 
-Milica Tosic 10122rn
+The first big project done at the faculty for the subject "Software Design".
+The purpose of this project was to practice MVC app architecture and different design patterns:
 
-Nadja Radojicic 10022rn
+1.Singleton
+2.Observer
+3.State pattern
+4.Command pattern
+5.Composite pattern
+6.Factory method
 
 Notion:
 https://www.notion.so/GeRuMap-1c33fb848f08413395abdc56ff9e4440
